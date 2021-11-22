@@ -1,9 +1,10 @@
 # Sanskrit Dictionaries
-These Sanskrit dictionaries are based on files provided by [GRETIL](http://gretil.sub.uni-goettingen.de/gret_utf.htm). They have been convered to slob format, which can be used with dictionary software such as [Aard2](https://aarddict.org/) or [GoldenDict](https://goldendict.org/).
+These Sanskrit dictionaries are based on files provided by [GRETIL](http://gretil.sub.uni-goettingen.de/gretil.html#Dictionaries). They have been convered to slob format, which can be used with dictionary software such as [Aard2](https://aarddict.org/) or [GoldenDict](https://goldendict.org/).
 
 ## Dictionaries included
 
 * Apte: The Practical Sanskrit-English Dictionary (input by Cologne Digital Sanskrit Lexicon)
+* Aufrecht (1962): Catalogus Catalogorum
 * Benfey: A Sanskrit-English Dictionary (input by Cologne Digital Sanskrit Lexicon)
 * Bhattacarya: Vacaspatyam (input by Cologne Digital Sanskrit Lexicon)
 * Böhtlingk: Kleines Petersburger Wörterbuch (input by Cologne Digital Sanskrit Lexicon)
@@ -14,6 +15,7 @@ These Sanskrit dictionaries are based on files provided by [GRETIL](http://greti
 * Cappeller: Sanskrit-Wörterbuch (input by Cologne Digital Sanskrit Lexicon)
 * Graßmann: Wörterbuch zum Rig-Veda (input by Cologne Digital Sanskrit Lexicon)
 * Macdonell: A Sanskrit-English Dictionary (input by Cologne Digital Sanskrit Lexicon)
+* Mani (1975): Purāṇic Encyclopaedia (input by Cologne Digital Sanskrit Lexicon)
 * Monier-Williams (1899): A Sanskrit-English Dictionary (input by Cologne Digital Sanskrit Lexicon)
 * Monier-Williams (1872): A Sanskrit-English Dictionary (input by Cologne Digital Sanskrit Lexicon)
 * Radhakantadeva: Sabdakalpadruma (input by Cologne Digital Sanskrit Lexicon)
